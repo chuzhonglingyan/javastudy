@@ -11,5 +11,6 @@ public class Day01Demo {
 
     public static  void main(String[] args){
         System.out.println("启动。。。");
+        System.out.println("你好：大象妹妹");
     }
 }
